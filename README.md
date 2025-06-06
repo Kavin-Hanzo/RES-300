@@ -15,6 +15,9 @@ Methane (CH₄) is a potent greenhouse gas and a critical target for emission mo
 
 - Supports evaluation on synthetic and real-world datasets (e.g., Carbon Mapper)
 
+`Use quick_test.py to get the output`
+ - saves the output plots in `segmentation_results`
+
 📜 Citation
 If you use this codebase, please cite our upcoming paper (pending DOI). Also cite:
 

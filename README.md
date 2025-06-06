@@ -1,4 +1,4 @@
-# Deep Learning Framework for Methane Plume Segmentation using Sentinel-2 Multispectral Imagery
+# Transformer-Based Detection of Methane Emissions from Sentinel-2: A Synthetic-to-Real Approach
 
 This repository implements a scalable deep learning framework for detecting methane emissions using dual-temporal Sentinel-2 imagery and synthetic training data. It is based on a transformer-driven architecture (SwinUNETR) trained entirely on physically simulated methane plumes.
 

@@ -329,7 +329,3 @@ if __name__ == "__main__":
         output_dir=OUTPUT_DIR
     )
     
-    # Alternative: Process specific samples
-    # sample_files = ["sample1.npz", "sample2.npz", "sample3.npz"]
-    # for sample_file in sample_files:
-    #     process_all_samples(sample_file, MODEL_PATH, SAVE_PLOTS, OUTPUT_DIR)
